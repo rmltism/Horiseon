@@ -103,7 +103,7 @@ header p{
 }
 /* article CONTAINER STYLES end */
 
-/* aside CONTAINER STYLES start */
+/* aside CONTAINER CONTENT STYLES start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -137,7 +137,7 @@ header p{
     margin: 10px auto;
     max-width: 150px;
 }
-/* aside CONTAINER STYLES end */
+/* aside CONTAINER CONTENT STYLES end */
 
 /* footer STYLES start */
 .footer {

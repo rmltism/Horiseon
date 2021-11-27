@@ -18,7 +18,6 @@ Usage of this project is strictly educational.  This project allows access to it
 
 ![Horiseon](./assets/images/horiseon-screenshot.jpg?raw=true "Horiseon")
 
-
 ## Credits
 
 Collaborators for this project include Trilogy Education, a 2U, Inc. and Rice University in Houston, TX. 

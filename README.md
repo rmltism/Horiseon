@@ -26,4 +26,3 @@ Collaborators for this project include Trilogy Education, a 2U, Inc. and Rice Un
 ## License 
 
 This work is under the default copyright laws that apply to propietary works.  "Nobody can copy, distribute, or modify this work without being at risk of take-downs, shake-downs, or litigation."
-

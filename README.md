@@ -4,7 +4,7 @@
 
 The Horiseon project has been uploaded to github.com by rmltism simply to contribute to the knowledge base fellow developers in the community.  The Horiseon project was a REFACTOR of existing code.  I added accessibility for the visualy impaired, as well as HTML structure, semantics, a new title element, and comments.  The CSS code has been REFACTORED to consolidate the CSS selectors and properties for a more optimized website.
 
-Link to deployed application: 
+Link to deployed application: [] 
 
 
 ## Installation

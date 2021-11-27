@@ -16,11 +16,13 @@ Installation of this project is not required.  To deploy follow the link in the 
 
 Usage of this project is strictly educational.  This project allows access to its' code to give fellow developers a peak through my particular coding lens. 
 
-![Horiseon](./assets/images/horiseon-screenshot)
+![Horiseon](./assets/images/horiseon-screenshot.jpg?raw=true "Horiseon")
+
 
 ## Credits
 
 Collaborators for this project include Trilogy Education, a 2U, Inc. and Rice University in Houston, TX. 
+
 
 ## License 
 
